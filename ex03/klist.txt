@@ -1,0 +1,6 @@
+Credentials cache: API:6E9BEE86-0063-44C3-9D09-CD6C98E1CB55
+        Principal: hboutrih@42QUEBEC.COM
+
+  Issued                Expires               Principal
+Mar  8 16:49:23 2021  Mar  9 02:49:23 2021  krbtgt/42QUEBEC.COM@42QUEBEC.COM
+Mar  8 16:49:25 2021  Mar  9 02:49:23 2021  HTTP/student-storage.42quebec.com@42QUEBEC.COM
